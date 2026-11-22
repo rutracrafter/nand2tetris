@@ -1,7 +1,7 @@
 # NAND2Tetris
 
 ## Overview
-This is my work on the NAND2tetris course.
+This is my work on the NAND2tetris course, where you build a computer from scratch!
 
 `part1` focuses on building the computer (called HACK) itself
 
